@@ -1,4 +1,4 @@
-Assignment 1.
+Assignment no. 1
 
 Instructions
 Example 1: Write pseudo code that reads two numbers and multiplies them together and print out their product.
@@ -10,5 +10,13 @@ Example 3: Write pseudo code that performs the following: Ask a user to enter a 
 Example 4: Write pseudo code to print all multiples of 5 between 1 and 100 (including both 1 and 100). Example 5: Write pseudo code that will count all the even numbers up to a user defined stopping point. Example 6: Write pseudo code that will perform the following. a) Read in 5 separate numbers. b) Calculate the average of the five numbers. c) Find the smallest (minimum) and largest (maximum) of the five entered numbers. d) Write out the results found from steps b and c with a message describing what they are Homework 1: Write pseudo code that reads in three numbers and writes them all in sorted order. Homework 2: Write pseudo code that will calculate a running sum. A user will enter numbers that will be added to the sum and when a negative number is encountered, stop adding numbers and write out the final result. 
 
 
+Assignment no. 2
 
-Due on Mar 15, 2025 11:59 PM
+Instructions
+Question 1 : What do you mean by Algorithm. Explain briefly and write the algorithm to check whether a number or string is a palindrome or not.
+
+Question 2: Write all the different data types available in C, Java, and Python separately.
+Question 3: Write all the different operators available in C, Java and Python and explain all with program example in C, Java, and Python
+Question 4: Explain the 2 different types of loops with the help of example in C, Java and Python.
+Question 5: Explain the conditional statements along with the example for all the four conditional statements
+Question 6: Explain SDLC process along with diagram.
