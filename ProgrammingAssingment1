@@ -9,4 +9,6 @@ Example 3: Write pseudo code that performs the following: Ask a user to enter a 
 
 Example 4: Write pseudo code to print all multiples of 5 between 1 and 100 (including both 1 and 100). Example 5: Write pseudo code that will count all the even numbers up to a user defined stopping point. Example 6: Write pseudo code that will perform the following. a) Read in 5 separate numbers. b) Calculate the average of the five numbers. c) Find the smallest (minimum) and largest (maximum) of the five entered numbers. d) Write out the results found from steps b and c with a message describing what they are Homework 1: Write pseudo code that reads in three numbers and writes them all in sorted order. Homework 2: Write pseudo code that will calculate a running sum. A user will enter numbers that will be added to the sum and when a negative number is encountered, stop adding numbers and write out the final result. 
 
+
+
 Due on Mar 15, 2025 11:59 PM
